@@ -28,9 +28,9 @@
 		//默认参数是不可缺少的一部分；
 		this.setting={
 			"width" : 1000,			//幻灯片的宽度
-			"height" : 270,			//幻灯片的高度
-			"posterWidth" : 640,	//幻灯片第一帧的宽度
-			"posterHeight" : 270,	//幻灯片第一帧的高度
+			"height" : 1200,			//幻灯片的高度
+			"posterWidth" : 740,	//幻灯片第一帧的宽度
+			"posterHeight" : 1200,	//幻灯片第一帧的高度
 			"scale" : 0.8,			//记录显示比例关系
 			"autoPlay" : true,
 			"delay" : 2000,
